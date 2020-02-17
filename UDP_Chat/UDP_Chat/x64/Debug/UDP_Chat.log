@@ -1,0 +1,4 @@
+﻿  UDP_Chat.cpp
+C:\Users\tpobyvanets\Desktop\UDP_Chat\UDP_Chat\UDP_Chat.cpp(50,12): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\tpobyvanets\Desktop\UDP_Chat\UDP_Chat\UDP_Chat.cpp(133,40): warning C4244: 'argument': conversion from 'unsigned long' to 'u_short', possible loss of data
+  UDP_Chat.vcxproj -> C:\Users\tpobyvanets\Desktop\UDP_Chat\x64\Debug\UDP_Chat.exe

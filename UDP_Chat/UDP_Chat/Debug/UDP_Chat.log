@@ -1,0 +1,3 @@
+﻿  UDP_Chat.cpp
+C:\Users\Furen\source\repos\UDP_Chat\UDP_Chat\UDP_Chat.cpp(126,40): warning C4244: аргумент: преобразование "unsigned long" в "u_short", возможна потеря данных
+  UDP_Chat.vcxproj -> C:\Users\Furen\source\repos\UDP_Chat\Debug\UDP_Chat.exe
